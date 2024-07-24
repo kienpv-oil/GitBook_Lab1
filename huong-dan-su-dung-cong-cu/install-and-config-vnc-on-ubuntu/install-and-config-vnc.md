@@ -1,7 +1,5 @@
 # install and config VNC
 
-
-
 **How to Install and Run a VNC Server on Ubuntu Linux 20.04**
 
 Installing a Compatible Display Manager
@@ -28,7 +26,7 @@ Reboot your PC for the display manager changes to take effect.
 
 ![](<../../.gitbook/assets/2 (1).png>)
 
-&#x20;**#sudo reboot**
+**#sudo reboot**
 
 You will notice a slight change in the login screen after the reboot because you are now using **lightdm** as your display manager.
 
@@ -46,7 +44,7 @@ You will now configure a service used for starting the x11nvc server. Create a f
 
 Copy and paste the content below into the newly created service file.
 
-&#x20;**\[Unit]**
+**\[Unit]**
 
 **Description=x11vnc service**
 
@@ -118,7 +116,7 @@ Enter the IP address of the PC you want to connect to, followed by the port numb
 
 ![](<../../.gitbook/assets/4 (1).png>)
 
-&#x20;**Note: In Ubuntu, you can get your IP address by typing the command below.**
+**Note: In Ubuntu, you can get your IP address by typing the command below.**
 
 **#ip addr**
 
@@ -140,4 +138,4 @@ One of the problems faced while using the x11vnc server is screen locking. Howev
 
 Head over to **Settings > Privacy > Screen Lock** and make sure you disable the **Automatic Screen Lock** and **Lock Screen on Suspend** options.
 
-**Note**: This is a potential security risk, so be sure to enable it again later. hello
+**Note**: This is a potential security risk, so be sure to enable it again later. hello 12332131
