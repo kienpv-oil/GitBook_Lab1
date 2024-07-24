@@ -139,3 +139,6 @@ One of the problems faced while using the x11vnc server is screen locking. Howev
 Head over to **Settings > Privacy > Screen Lock** and make sure you disable the **Automatic Screen Lock** and **Lock Screen on Suspend** options.
 
 **Note**: This is a potential security risk, so be sure to enable it again later. hello 12332131
+
+dat edit&#x20;
+
