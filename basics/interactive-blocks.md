@@ -1,6 +1,6 @@
 # Interactive blocks
 
-Ngoài Markdown mặc định mà ta có thể viết, GitBook còn có một số khối tương tác có sẵn mà bạn có thể sử dụng. Ta có thể tìm thấy các khối tương tác bằng cách nhấn / từ trong trình soạn thảo.
+Ngoài Markdown mặc định mà ta có thể viết, GitBook còn có một số khối tương tác có sẵn mà ta có thể sử dụng. Ta có thể tìm thấy các khối tương tác bằng cách nhấn / từ trong trình soạn thảo.
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ Mỗi tab giống như một trang nhỏ — nó có thể chứa nhiều block 
 {% endtab %}
 
 {% tab title="Tab thứ hai" %}
-Add images, blocks, and more.
+Thêm hình ảnh, các khối,v..v...
 
 ```python
 ```
@@ -23,11 +23,42 @@ Add images, blocks, and more.
 
 ### Drawings
 
+
+
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
+
+
+**Multi-syntaxes code**
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+const message = "hello world";
+console.log(message);
+```
+{% endtab %}
+
+{% tab title="Python" %}
+```
+message = "hello world"
+print(message)
+```
+{% endtab %}
+
+{% tab title="Ruby" %}
+```ruby
+message = "hello world"
+puts message
+```
+{% endtab %}
+{% endtabs %}
+
+
 
 ### Embedded&#x20;
 
-Ta có thể nhúng một ứng dụng nào đó vào Git. Như đây ta tiến hành nhúng youtube:
+Ta có thể nhúng một ứng dụng nào đó vào Git. Như đây ta tiến hành nhúng thử youtube:
 
 {% embed url="https://www.youtube.com/watch?v=4NB0NDtOwIQ" %}
 

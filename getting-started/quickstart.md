@@ -6,6 +6,19 @@ description: 'Khi đăng nhập vào GitBook, sẽ hiện ra giao diện như sa
 
 <figure><img src="../.gitbook/assets/homegitbook.png" alt=""><figcaption></figcaption></figure>
 
+Sau đây là cái nhìn trực quan cách ta tạo ra một tài liệu cơ bản:\
+
+
+<figure><img src="../.gitbook/assets/nd.png" alt=""><figcaption></figcaption></figure>
+
+Docs site: Nơi ta chỉnh sửa và quản lý nội dung, sau đó xuất bản lên web
+
+Spaces: Là các không gian làm việc nơi ta có thể tạo, quản lý và tổ chức tài liệu
+
+Page: là một đơn vị nội dung cơ bản tương tự như một trang tài liệu. Mỗi page có thể chứa văn bản, hình ảnh, mã nguồn, và các khối nội dung khác
+
+Subpage: là các trang con nằm bên trong một trang chính. Chúng giúp tổ chức nội dung theo cấu trúc phân cấp
+
 ### Import
 
 GitBook hỗ trợ nhập nội dung từ nhiều công cụ và định dạng viết phổ biến. Nếu đã có sẵn nội dung, ta có thể tải lên và trực tiếp sử dụng.
