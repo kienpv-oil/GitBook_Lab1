@@ -16,4 +16,4 @@ Ta sẽ thử tích hợp Google Analytics vào GitBook để theo dõi lưu lư
 
 Sau đây là kết quả ta thu được từ Google Analytics
 
-<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
