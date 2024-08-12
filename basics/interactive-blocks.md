@@ -31,6 +31,8 @@ Thêm hình ảnh, các khối,v..v...
 
 **Multi-syntaxes code**
 
+**Multi-syntaxes code**
+
 {% tabs %}
 {% tab title="JavaScript" %}
 ```javascript
