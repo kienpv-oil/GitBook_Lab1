@@ -1,8 +1,16 @@
 # Table of contents
 
-## 🥸 Hướng dẫn sử dụng công cụ
+* [Welcome](README.md)
 
-* [Install and config VNC on Ubuntu](README.md)
-  * [install and config VNC](huong-dan-su-dung-cong-cu/install-and-config-vnc-on-ubuntu/install-and-config-vnc.md)
-  * [Review](huong-dan-su-dung-cong-cu/install-and-config-vnc-on-ubuntu/review/README.md)
-    * [kienpv](huong-dan-su-dung-cong-cu/install-and-config-vnc-on-ubuntu/review/kienpv.md)
+## Getting Started
+
+* [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
+
+## Basics
+
+* [Editor](basics/editor.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)
