@@ -29,38 +29,9 @@ Thêm hình ảnh, các khối,v..v...
 
 
 
-**Multi-syntaxes code**
-
-**Multi-syntaxes code**
-
-{% tabs %}
-{% tab title="JavaScript" %}
-```javascript
-const message = "hello world";
-console.log(message);
-```
-{% endtab %}
-
-{% tab title="Python" %}
-```
-message = "hello world"
-print(message)
-```
-{% endtab %}
-
-{% tab title="Ruby" %}
-```ruby
-message = "hello world"
-puts message
-```
-{% endtab %}
-{% endtabs %}
-
-
-
 ### Embedded&#x20;
 
-Ta có thể nhúng một ứng dụng nào đó vào Git. Như đây ta tiến hành nhúng thử youtube:
+Ta có thể nhúng một ứng dụng nào đó vào GitBook. Như đây ta tiến hành nhúng thử youtube:
 
 {% embed url="https://www.youtube.com/watch?v=4NB0NDtOwIQ" %}
 
